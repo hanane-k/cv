@@ -130,17 +130,25 @@ p {
     margin-right: 9.9%;
     text-align: 50%;
     justify-content: center;
-    color: red;
+    color: blue;
     font-size: 25px;
     font-family: Times New Roman;
 }
-   /*------------------------end header-------------------------*/
-
 .img2 {
     background-color: white;
     width: 20%;
     text-align: center;
+    padding-top: 1%;
 }
+.info {
+    width: 20%;
+    background-color: rgb(178, 225, 230);
+    text-align: left;
+}
+
+   /*------------------------end header-------------------------*/
+
+
 main {
     background: rgb(255, 255, 255);
     border: 1px solid black;
@@ -149,10 +157,7 @@ main {
     padding-bottom: 1%;
 
 }
-.info {
-    width: 20%;
-    background-color: rgb(178, 225, 230);
-}
+
   /*------------------------start main----------------------------*/
 h2 {
     padding-left: 5%;
